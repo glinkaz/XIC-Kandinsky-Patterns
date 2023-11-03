@@ -5,7 +5,8 @@
 
 ## Opis
 
-| ![Kandinsky Patterns introduce a set of challenges focusing on developing **human-understandable** explanations of machine learning predictive models. Each challenge is associated with a corresponding dataset generated from the **ground-truth** human explanation of a given abstract phenomenon. An exemplary challenge is “Objects and Shapes”, where the ground-truth defines strict relations between the patterns’ shapes and colors, while the **contradictory** and **random** patterns need to be carefuly distinguished and explained.](graphical_abstract.png) |
+| ![Kandinsky Patterns introduce a set of challenges focusing on developing **human-understandable** explanations of machine learning predictive models. Each challenge is associated with a corresponding dataset generated from the **ground-truth** human explanation of a given abstract phenomenon. An exemplary challenge is “Objects and Shapes”, where the ground-truth defines strict relations between the patterns’ shapes and colors, while the **contradictory** and **random** patterns need to be carefuly distinguished and explained.](https://github.com/glinkaz/XIC-Kandinsky-Patterns/assets/72373082/48f25b3b-0244-4e08-9014-ad20ba8f151c) |
+
 |:--:| 
 | Kandinsky Patterns wprowadzają zbiór wyzwań skupiających się na rozwijaniu **zrozumiałych przez człowieka** wyjaśnień modeli predykcyjnych uczenia maszynowego. Każde wyzwanie związane jest z odpowiadającym jemu zbiorem danych wygenerowanym z pewnej **definicji** wyjaśnienia; ludzkiego wyjaśnienia danego abstrakcyjnego zjawiska. Przykładowym wyzwaniem są “Obiekty i Kształty”, gdzie definicja ta opisuje ścisłe reguły powstawania wzorców z odpowiednimi kształtami i kolorami na obrazie, podczas gdy **sprzeczne** i **losowe** wzory powinny być odróżnione i wyjaśnione. |
 
